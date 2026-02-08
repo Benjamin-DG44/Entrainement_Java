@@ -1,0 +1,4 @@
+Min = 42.0
+Max = 42.0
+Average = 42.0
+Count = 1
